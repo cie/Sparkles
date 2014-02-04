@@ -1,7 +1,7 @@
 Sparkles
 ========
 
-My collection of interactive visualizations for Maths and Physics. Browse the directories to find something interesting. Some of them are in Hungarian, and many lack documentation. Sorry for that.
+Hey! This is my collection of interactive visualizations for Maths and Physics. Browse the directories to find something interesting. Some of them are in Hungarian, and many lack documentation. Sorry for that.
 
 ## Software
 
