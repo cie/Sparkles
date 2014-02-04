@@ -1,7 +1,9 @@
 Sparkles
 ========
 
-Hey! This is my collection of interactive visualizations for Maths and Physics. Browse the directories to find something interesting. Some of them are in Hungarian, and many lack documentation. Sorry for that.
+Hey! This is my collection of some interactive visualizations I made for Maths and Physics during the last years. Most of them are in Hungarian and lack documentation. Sorry for that. The purpose of this collection is that you can see what I work on. Contact me for further info about any of the visualizations, or any project proposals.
+
+Helló! Ez egy gyűjtemény egy ízelítő az animációkból, amiket fizika és matek oktatáshoz készítettem az elmúlt években. Ha valamelyikkel kapcsolatban kérdésed van, vagy egy projektet szeretnél ajánlani, keress meg!
 
 ## Software
 
@@ -12,7 +14,7 @@ The following software is used:
 
 ## Licencs
 
-All these software are released under MIT licence.
+All these visualizations are released under MIT licence.
 
 ## Interested?
 
